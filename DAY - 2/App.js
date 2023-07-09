@@ -5,7 +5,11 @@ const heading = React.createElement( "h1", {
     id: "title"
 }, "This is a heading with size h1" );
 
-const heading2 = React.createElement( "h2", {
+const heading2 = React.createElement( "h1", {
+    id: "title"
+}, "This is a heading with size h1" );
+
+const heading3 = React.createElement( "h2", {
     id: "container"
 }, "This is a heading with size h2" );
 

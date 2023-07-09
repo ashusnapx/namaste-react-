@@ -2949,7 +2949,10 @@ var _reactDomDefault = parcelHelpers.interopDefault(_reactDom);
 const heading = /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
     id: "title"
 }, "This is a heading with size h1");
-const heading2 = /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {
+const heading2 = /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
+    id: "title"
+}, "This is a heading with size h1");
+const heading3 = /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {
     id: "container"
 }, "This is a heading with size h2");
 const container = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
