@@ -1,20 +1,17 @@
 import React from "react";
-import { ReactDOM } from "react-dom/client";
+import ReactDOM from "react-dom";
 
 const heading = React.createElement( "h1", {
     id: "title"
-}, "this is heading with size h1" );
-/* 
-same as <h1 id="root">this is heading with size h1</h1>
-*/
+}, "This is a heading with size h1" );
 
 const heading2 = React.createElement( "h2", {
     id: "container"
-}, "this is heading with size h2" );
+}, "This is a heading with size h2" );
 
-const conatiner = React.createElement( "div", {
+const container = React.createElement( "div", {
     id: "container"
 }, [ heading, heading2 ] );
 
-const root = ReactDOM.createRoot( document.getElementById( "root" ) );
-root.render( [ heading, heading2 ] );
+const root = document.getElementById( "root" );
+ReactDOM.render( container, root );
