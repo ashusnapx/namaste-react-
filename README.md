@@ -12,15 +12,15 @@ Limited seats are available, so don't wait! Register now and join me on this exc
 
 ## Perks & Benefits
 
-📹 In-depth High-Quality Videos: Learn from detailed and engaging video content.
-🏗️ Project-Based Learning: Apply your knowledge by working on real-world projects.
-📝 Assignments after Each Session: Reinforce your learning with practical assignments.
-🌍 Attend from Anywhere: Join the sessions remotely from the comfort of your location.
-🆕 Start Learning React from Episode 1: Dive into React right from the beginning.
-👥 Access to Premium Community: Connect with fellow developers in our exclusive community.
-⏰ Three Year Access to All Course Content: Review the course material anytime, even after the series ends.
-🎓 Namaste React Course Certificate: Receive a certificate upon completion of the series.
-🎁 Bonus Sessions: Gain additional insights with sessions on Personal Branding, LinkedIn Tips and Tricks, and Resume Building.
+📹 In-depth High-Quality Videos: Learn from detailed and engaging video content.<br />
+🏗️ Project-Based Learning: Apply your knowledge by working on real-world projects.<br />
+📝 Assignments after Each Session: Reinforce your learning with practical assignments.<br />
+🌍 Attend from Anywhere: Join the sessions remotely from the comfort of your location.<br />
+🆕 Start Learning React from Episode 1: Dive into React right from the beginning.<br />
+👥 Access to Premium Community: Connect with fellow developers in our exclusive community.<br />
+⏰ Three Year Access to All Course Content: Review the course material anytime, even after the series ends.<br />
+🎓 Namaste React Course Certificate: Receive a certificate upon completion of the series.<br />
+🎁 Bonus Sessions: Gain additional insights with sessions on Personal Branding, LinkedIn Tips and Tricks, and Resume Building.<br />
 
 ## Learnings
 
