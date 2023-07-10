@@ -72,15 +72,20 @@ Akshay Saini has taught over 200,000 developers and counting. You will have the 
 
 Here's what past learners have to say about their experience with Namaste React:
 
-- "After understanding JavaScript concepts from Namaste JavaScript playlist, I was looking for resources to learn React. This Namaste React series is exactly what I was looking for. I am impressed by the amount of effort Akshay and the moderators put into this, which is not common in any other online courses." - Nikita Jit, Software Engineer - Accenture
+- "After understanding JavaScript concepts from Namaste JavaScript playlist, I was looking for resources to learn React. This Namaste React series is exactly what I was looking for. I am impressed by the amount of effort Akshay and the moderators put into this, which is not common in any other online courses."
+  - Nikita Jit, Software Engineer - Accenture
 
-- "Since my undergraduate days, I have been a fan of Akshay Sir. I've learned everything I know about programming, including JavaScript, through Namaste JavaScript. I joined Namaste React live classes and found it to be far more engaging than many other courses on React or development." - Shivam Pandey, Software Engineer - Körber Supply Chain
+- "Since my undergraduate days, I have been a fan of Akshay Sir. I've learned everything I know about programming, including JavaScript, through Namaste JavaScript. I joined Namaste React live classes and found it to be far more engaging than many other courses on React or development."
+  - Shivam Pandey, Software Engineer - Körber Supply Chain
 
-- "Namaste React sessions not only helped me to upskill my React knowledge but gave me the leg up that I needed the most in my career. From the first day of the class, all the sessions are very interactive. Thank you Akshay & team for managing the bootcamp so well." - Meenakshi Pandey, Software Engineer - Siemens Healthineers
+- "Namaste React sessions not only helped me to upskill my React knowledge but gave me the leg up that I needed the most in my career. From the first day of the class, all the sessions are very interactive. Thank you Akshay & team for managing the bootcamp so well."
+  - Meenakshi Pandey, Software Engineer - Siemens Healthineers
 
-- "I have been working with React for 2 years, but the way Akshay teaches in the classes is totally from ground up. It helped me know about every line that I write in the React app now." - Pujarini Jena, Software Engineer - Cars24
+- "I have been working with React for 2 years, but the way Akshay teaches in the classes is totally from ground up. It helped me know about every line that I write in the React app now."
+  - Pujarini Jena, Software Engineer - Cars24
 
-- "Akshay’s way of creating curiosity in all of us and always being super active motivates me a lot. I’ve never attended this level of in-depth React teaching. I appreciate him a lot for his behavior and teaching methods." - Ajay Pathak, Software Engineer - Naehas Inc
+- "Akshay’s way of creating curiosity in all of us and always being super active motivates me a lot. I’ve never attended this level of in-depth React teaching. I appreciate him a lot for his behavior and teaching methods."
+  - Ajay Pathak, Software Engineer - Naehas Inc
 
 ## Frequently Asked Questions
 
@@ -90,33 +95,31 @@ To enroll in this course, you will need:
 
 - A laptop with an Internet connection
 - Basic knowledge of HTML, CSS, and JavaScript
-- A hunger for learning
-- Readiness for a grind
+- Hunger for Learning
+- Ready for a grind
 
 ### What language will the course be taught in?
 
-The entire course will be taught in English.
+Everything will be taught in English.
 
 ### Will there be recordings of the sessions?
 
-Yes, you will have access to the recordings of all the course videos for a period of three years.
+You get 3 years access to the recordings of all the course videos.
 
 ### Will you cover Node.js and Data Structures?
 
-No, this is an intensive frontend React web series. We will focus solely on React and not cover Node.js or Data Structures. The course is designed to provide an in-depth, hands-on learning experience with React.
+This is an intensive frontend React web series, we will not be covering Node.js or Data Structures. This is a pure React in-depth hands-on course.
 
 ### Will there be any job guarantee after this Live course?
 
-No, this is not a job-guarantee program. We do not make false promises. However, upon completing the episodes and assignments on time, you will gain strong React skills that will make interview questions a piece of cake for you.
+NO, this is NOT a Job-guarantee program. (No false promises). But we are sure, that if you finish watching these episodes and assignments on time, you will be so good in React that interview questions will be a piece of cake for you.
 
-### Can I watch the classes only on my phone without a laptop?
+### Can I watch the classes only on phone without Laptop?
 
-No, you will need a laptop as you will be working on assignments and coding projects that require a development environment.
+No, you will need a laptop as you will be working on assignments and coding projects.
 
-### I have more questions. How can I reach out to you?
+### I have more questions, how can I reach out to you?
 
-Feel free to drop us an email at support@namastedev.com, and we will be happy to assist you.
-
-Let's embark on this React learning journey together and become React heroes! 🚀
+Drop us a mail at support@namastedev.com
 
 **© 2023 NamasteDev.com. All Rights Reserved**
