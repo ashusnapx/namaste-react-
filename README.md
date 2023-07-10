@@ -26,37 +26,37 @@ Limited seats are available, so don't wait! Register now and join me on this exc
 
 Throughout this series, you will cover a wide range of topics, including but not limited to:
 
-✅ React Hooks \n
-✅ State Management \n
-✅ Config Drive UI \n
-✅ Redux \n
-✅ Reusable Components \n
-✅ Rich and Interactive UI \n
-✅ Functional Components \n
-✅ Props & State \n
-✅ List & Keys \n
-✅ Class Components \n
-✅ Scaling React Apps \n
-✅ Best Coding Practices \n
-✅ React Router \n
-✅ Optimizing React Apps \n
-✅ Building Live Projects \n
-✅ Bundlers & Babel \n
-✅ JSX \n
-✅ React.Fragment \n
-✅ Code Splitting \n
-✅ Dynamic UI \n
-✅ Higher Order Components \n
-✅ Pure Components \n
-✅ Code Splitting \n
-✅ React Testing Library \n
-✅ Interview Questions \n
-✅ Uncontrolled Components \n
-✅ Building Custom Hooks \n
-✅ Handling Events \n
-✅ Conditional Rendering \n
-✅ Tailwind CSS \n
-...and so much more! \n
+✅ React Hooks <br />
+✅ State Management <br />
+✅ Config Drive UI <br />
+✅ Redux <br />
+✅ Reusable Components <br />
+✅ Rich and Interactive UI <br />
+✅ Functional Components <br />
+✅ Props & State <br />
+✅ List & Keys <br />
+✅ Class Components <br />
+✅ Scaling React Apps <br />
+✅ Best Coding Practices <br />
+✅ React Router <br />
+✅ Optimizing React Apps <br />
+✅ Building Live Projects <br />
+✅ Bundlers & Babel <br />
+✅ JSX <br />
+✅ React.Fragment <br />
+✅ Code Splitting <br />
+✅ Dynamic UI <br />
+✅ Higher Order Components <br />
+✅ Pure Components <br />
+✅ Code Splitting <br />
+✅ React Testing Library <br />
+✅ Interview Questions <br />
+✅ Uncontrolled Components <br />
+✅ Building Custom Hooks <br />
+✅ Handling Events <br />
+✅ Conditional Rendering <br />
+✅ Tailwind CSS <br />
+...and so much more! <br />
 
 I will share everything I've learned from years of working in the industry and my extensive knowledge of React. We will focus on project-based learning, applying theoretical concepts directly to practical applications. Say goodbye to boring slides—we will dive into code right from Episode 1! 🚀
 
