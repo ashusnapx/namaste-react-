@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/ashusnapx/namaste-react-#readme",
   "devDependencies": {
-    "parcel": "^2.9.3",
+    "parcel": "^2.10.3",
     "process": "^0.11.10"
   },
   "dependencies": {
-    "@parcel/core": "^2.9.3",
+    "@parcel/core": "^2.10.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "watch": "^1.0.2"
